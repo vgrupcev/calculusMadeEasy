@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800) (preloaded format=pdflatex 2018.8.24)  27 OCT 2018 14:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800) (preloaded format=pdflatex 2018.8.24)  27 OCT 2018 16:00
 entering extended mode
 **./onRelativeGrowings.tex
 (onRelativeGrowings.tex
@@ -1027,31 +1027,26 @@ File: fig5.png Graphic file (type png)
 Package pdftex.def Info: fig5.png  used on input line 87.
 (pdftex.def)             Requested size: 354.32288pt x 518.93748pt.
  [2 <./fig4.png (PNG copy)>] [3 <./fig5.png (PNG copy)>] [4] [5]
-
-LaTeX Warning: Command \textquotedblright invalid in math mode on input line 26
-4.
-
-
-Overfull \hbox (0.76456pt too wide) in paragraph at lines 258--267
-\OT1/cmr/m/n/10 Similarly, $\OML/cmm/m/it/10 F\OT1/cmr/m/n/10 "(\OML/cmm/m/it/1
-0 x\OT1/cmr/m/n/10 )$ will mean that the original function $\OML/cmm/m/it/10 F\
-OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 )$ has been differentiated
+Overfull \hbox (0.87566pt too wide) in paragraph at lines 258--265
+\OT1/cmr/m/n/10 Similarly, $\OML/cmm/m/it/10 F[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/
+10 x\OT1/cmr/m/n/10 )$ will mean that the original function $\OML/cmm/m/it/10 F
+\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 )$ has been differentiated
  []
 
 [6]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 268.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 268.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 266.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 266.
  (onRelativeGrowings.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 268.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 268.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 266.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 266.
 Package rerunfilecheck Info: File `onRelativeGrowings.out' has not changed.
 (rerunfilecheck)             Checksum: 5B57610604696BFB9D1D596973E5242E;56.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 268.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 266.
  ) 
 Here is how much of TeX's memory you used:
  29459 strings out of 494891
  691327 string characters out of 3178553
- 859306 words of memory out of 3000000
+ 858347 words of memory out of 3000000
  32523 multiletter control sequences out of 15000+200000
  10683 words of font info for 42 fonts, out of 3000000 for 9000
  0 hyphenation exceptions out of 8191
@@ -1068,7 +1063,7 @@ pfb></home/archdoc/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsl10
 0.pfb></home/archdoc/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy
 7.pfb></home/archdoc/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmti
 10.pfb>
-Output written on onRelativeGrowings.pdf (6 pages, 172111 bytes).
+Output written on onRelativeGrowings.pdf (6 pages, 172650 bytes).
 PDF statistics:
  91 PDF objects out of 1000 (max. 8388607)
  10 named destinations out of 1000 (max. 500000)
